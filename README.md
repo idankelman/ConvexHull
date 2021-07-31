@@ -11,7 +11,7 @@ Convex Hull visualization
   <br>
   <br>
  
-   <img src=" http://idanke.mysoft.jce.ac.il/Assests/ConexHull.jpeg" width="200"/>
+   <img src="http://idanke.mysoft.jce.ac.il/Assests/ConexHull.jpeg" width="200"/>
   </p>
   
   <details align="center">
