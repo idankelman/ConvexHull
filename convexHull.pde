@@ -38,7 +38,7 @@ Button slow_btn;
 //----------------------------------------------------------------------------------------------------------------------------------
 void setup()
 {
-  size(2000, 2500);
+  size(1200, 1800);
    //createCanvas(windowWidth, windowHeight);
    //size(windowWidth, windowHeight);
   
